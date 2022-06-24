@@ -1,16 +1,8 @@
-# permission_app
+# Permission Handler App 
 
-A new Flutter project.
+this is a simple permission handler app.
+this apps shows you wich permission you allow.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Output
+![1p](https://user-images.githubusercontent.com/90972632/175452030-6995076b-bd0c-4034-999c-ebb550b2026f.png)
+![2p](https://user-images.githubusercontent.com/90972632/175452050-c3f15de8-0475-49a3-95c4-685261dcbab7.png)
